@@ -3,8 +3,10 @@
 import setuptools
 
 
+# read the contents of your README file
 with open('README.md') as f:
     README = f.read()
+
 
 setuptools.setup(
     author="Yuki Kakegawa",
@@ -12,8 +14,9 @@ setuptools.setup(
     name='pyhello',
     license="MIT",
     description='pyhello is a package that has a func that prints hello.',
-    version='v0.0.3',
+    version='v0.0.1',
     long_description=README,
+    long_description_content_type='text/markdown',
     url='https://github.com/StuffbyYuki/pyhello',
     packages=setuptools.find_packages(),
     #python_requires=">=3.5",

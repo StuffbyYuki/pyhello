@@ -1,5 +1,8 @@
 # pyhello
 
-This python package only contains a function that say "Hello!!!!!". 
+This simple python package only contains a function that says "Hello!!!!!". 
 
-Simple and Sweet!
+
+Github source page: [pyhello](https://github.com/StuffbyYuki/pyhello)
+
+
