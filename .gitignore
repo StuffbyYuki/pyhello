@@ -138,5 +138,5 @@ dmypy.json
 cython_debug/
 
 # ignore .DS_Store & .pypirc
-.DS_Store
-.pypirc
+*.DS_Store
+*.pypirc
